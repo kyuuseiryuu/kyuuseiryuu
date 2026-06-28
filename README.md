@@ -82,16 +82,104 @@
 
 ---
 
-## 📌 Pinned Projects
+## 🌟 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">⭐ typecho-plugin-reward</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/typecho-plugin-reward">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=typecho-plugin-reward&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>🏆 59 Stars · 14 Forks</b>
+          <br/>
+          🎯 Top Starred Project — Typecho 打赏插件
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚛️ react-websocket</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/react-websocket">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=react-websocket&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>🏆 8 Stars · 2 Forks</b>
+          <br/>
+          🔌 React WebSocket Component
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔧 yapi-plugin-response-to-ts</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/yapi-plugin-response-to-ts">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=yapi-plugin-response-to-ts&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>🏆 5 Stars</b>
+          <br/>
+          📝 YAPI 文档响应 → TypeScript 接口
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎨 typecho-plugin-custom-css-js</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/typecho-plugin-custom-css-js">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=typecho-plugin-custom-css-js&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>🏆 8 Stars · 2 Forks</b>
+          <br/>
+          🎨 Typecho 自定义 CSS/JS 插件
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 ai-cmd</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/ai-cmd">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=ai-cmd&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>🏆 MIT License</b>
+          <br/>
+          🤖 AI 命令行工具
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🖥️ screen-cleaner</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/screen-cleaner">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=screen-cleaner&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>✨ Latest Project</b>
+          <br/>
+          🧹 纯黑全屏清洁工具
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Stats Highlights
 
 <div align="center">
 
-[![screen-cleaner](https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=screen-cleaner&theme=tokyonight&hide_border=true)](https://github.com/kyuuseiryuu/screen-cleaner)
-[![wxocr-webui](https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=wxocr-webui&theme=tokyonight&hide_border=true)](https://github.com/kyuuseiryuu/wxocr-webui)
-[![ai-cmd](https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=ai-cmd&theme=tokyonight&hide_border=true)](https://github.com/kyuuseiryuu/ai-cmd)
-[![mock-server](https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=mock-server&theme=tokyonight&hide_border=true)](https://github.com/kyuuseiryuu/mock-server)
-[![encrypt-my-message-server](https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=encrypt-my-message-server&theme=tokyonight&hide_border=true)](https://github.com/kyuuseiryuu/encrypt-my-message-server)
-[![scriptable-jsx](https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=scriptable-jsx&theme=tokyonight&hide_border=true)](https://github.com/kyuuseiryuu/scriptable-jsx)
+| 🏅 项目 | ⭐ Stars | 🍴 Forks | 📝 描述 |
+|:--------|:-------:|:--------:|:--------|
+| **[typecho-plugin-reward](https://github.com/kyuuseiryuu/typecho-plugin-reward)** | **59** | **14** | 基于当面付的 Typecho 打赏插件 🏆 |
+| **[react-websocket](https://github.com/kyuuseiryuu/react-websocket)** | **8** | **2** | React WebSocket Component |
+| **[typecho-plugin-custom-css-js](https://github.com/kyuuseiryuu/typecho-plugin-custom-css-js)** | **8** | **2** | Typecho 自定义 CSS/JS |
+| **[yapi-plugin-response-to-ts](https://github.com/kyuuseiryuu/yapi-plugin-response-to-ts)** | **5** | **-** | YAPI → TS 接口工具 |
+| **[utools-plugin-gitmoji](https://github.com/kyuuseiryuu/utools-plugin-gitmoji)** | **5** | **1** | uTools Gitmoji 插件 |
 
 </div>
 
@@ -104,11 +192,12 @@
 | 📊 Metric | Value |
 |:---------:|:-----:|
 | 📦 Public Repositories | **17** (Total: 53) |
-| 🌟 Stars Earned | **5** |
+| 🌟 Stars Earned | **95** ⭐ |
 | 🍴 Forked | **4** |
 | 👥 Followers | **18** |
 | 👤 Following | **28** |
 | 🗓️ Member Since | **April 7, 2016** |
+| ⏳ GitHub Age | **10+ Years** |
 
 </div>
 
