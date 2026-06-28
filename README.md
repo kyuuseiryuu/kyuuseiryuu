@@ -112,10 +112,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kyuuseiryuu&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
 ---
 
 <div align="center">
