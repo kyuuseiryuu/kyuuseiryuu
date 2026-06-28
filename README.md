@@ -140,18 +140,6 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 ai-cmd</h3>
-        <p align="center">
-          <a href="https://github.com/kyuuseiryuu/ai-cmd">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=ai-cmd&theme=tokyonight&hide_border=true" />
-          </a>
-          <br/>
-          <b>🏆 MIT License</b>
-          <br/>
-          🤖 AI 命令行工具
-        </p>
-      </td>
-      <td width="50%">
         <h3 align="center">🖥️ screen-cleaner</h3>
         <p align="center">
           <a href="https://github.com/kyuuseiryuu/screen-cleaner">
@@ -161,6 +149,18 @@
           <b>✨ Latest Project</b>
           <br/>
           🧹 纯黑全屏清洁工具
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🚀 create-utools</h3>
+        <p align="center">
+          <a href="https://github.com/kyuuseiryuu/create-utools">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuseiryuu&repo=create-utools&theme=tokyonight&hide_border=true" />
+          </a>
+          <br/>
+          <b>⭐ 2 Stars</b>
+          <br/>
+          📦 快速创建 uTools 插件模板
         </p>
       </td>
     </tr>
